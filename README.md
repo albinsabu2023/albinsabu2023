@@ -5,12 +5,12 @@
  
  
  <h1>👋 Hi, I’m Albin Sabu</h1>
-<h3>- 👀 I am currently working on MERN stack project </h3><br/>
-<h3>- 📌 I am creating coding tutorials  in youtube and instagram  @learnwithalbin </h3><br/>
-<h3>- 🚀Currently learning Angular & Vue</h3> <br/>
-<h3>- 🌱 Ask me about React,MongoDB,NodeJS,ExpressJS,NextJs</h3> <br/>
-<h3>- 💞️ All my projects are available at /albinsabu2023/repositories</h3> <br/>
-<h3>- 📫 How to reach me</h3> <br/>
+<h3>- 👀 I am currently working on MERN stack project </h3>
+<h3>- 📌 I am creating coding tutorials  in youtube and instagram  @learnwithalbin </h3>
+<h3>- 🚀Currently learning Angular & Vue</h3> 
+<h3>- 🌱 Ask me about React,MongoDB,NodeJS,ExpressJS,NextJs</h3> 
+<h3>- 💞️ All my projects are available at /albinsabu2023/repositories</h3>
+<h3>- 📫 How to reach me</h3>
 
 
 <h1>-------------->Tech Stacks <----------------</h1>
