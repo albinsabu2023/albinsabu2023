@@ -4,14 +4,16 @@
 
  
  
- 👋 Hi, I’m Albin Sabu
-- 👀 I’m interested in  Developing real world application through problem solving...
-- 🌱 I’m Final year Engineering student...
-- 💞️ I’m looking to collaborate on  software development...
+ <h1>👋 Hi, I’m Albin Sabu</h1>
+- 👀 I am currently working on MERN stack project
+- 📌 I am creating coding tutorials  in youtube and instagram  @learnwithalbin
+- 🚀Currently learning Angular & Vue
+- 🌱 Ask me about React,MongoDB,NodeJS,ExpressJS,NextJs
+- 💞️ All my projects are available at /albinsabu2023/repositories
 - 📫 How to reach me
 
 
------------------->Tech Stacks <------------
+<h1>---------------------------------------->Tech Stacks <----------------------------------------------------------</h1>
 
 
 
