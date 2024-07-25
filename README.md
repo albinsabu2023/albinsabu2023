@@ -45,4 +45,4 @@
 ![Albin's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinsabu2023&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albinsabu2023&layout=compact)
 
-[![Albin's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=albinsullas13)](https://github.com/albinsabu2023/leetcode-stats)
+[![Albin's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=albinsabu2023)](https://github.com/albinsabu2023/leetcode-stats)
