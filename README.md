@@ -40,3 +40,7 @@
 ![React-20232A](https://github.com/albinsabu2023/albinsabu2023/assets/126412402/2b14be99-c3d9-4b98-a34a-ed62cd581efc)
 ![React_Router-CA4245](https://github.com/albinsabu2023/albinsabu2023/assets/126412402/7c2c0285-6da3-46c2-a805-faff58a66e40)
 ![React_Query-FF4154](https://github.com/albinsabu2023/albinsabu2023/assets/126412402/cac7ecea-a762-4c47-a0fa-8f240efed460)
+
+
+
+![Albin's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinsabu2023&show_icons=true)
