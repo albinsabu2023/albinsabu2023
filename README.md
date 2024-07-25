@@ -4,13 +4,13 @@
 
  
  <ul>
-  <li><h👋 Hi, I’m Albin Sabu1></h1></li>
+  <li><h1>👋 Hi, I’m Albin Sabu1></h1></li>
    <li>I am currently working on SPRINGBOOT project</li>
    <li>🚀Currently learning springboot 3</li>
    <li><a href="https://www.linkedin.com/in/albin-sabu2023/"> 📫 Connect me</a></li>
  </ul>
 
-<title>TECH STACKS</title>
+<h1>TECH STACKS</h1>
 <br/>
 
 
