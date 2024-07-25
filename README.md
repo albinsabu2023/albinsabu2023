@@ -3,17 +3,14 @@
  ![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/albinsabu2023/albinsabu2023/assets/126412402/a19af869-ae83-4395-b3a7-6203cb547528)
 
  
- 
- <h1>👋 Hi, I’m Albin Sabu</h1>
-<h3>- 👀 I am currently working on SPRINGBOOT project</h3>
-<h3>- 📌 I am creating coding tutorials  in youtube and instagram  @learnwithalbin </h3>
-<h3>- 🚀Currently learning springboot 3</h3> 
-<h3>- 🌱 Ask me about React,MongoDB,NodeJS,ExpressJS,NextJs</h3> 
-<h3>- 💞️ All my projects are available at /albinsabu2023/repositories</h3>
-<h3>- 📫 How to reach me</h3>
+ <ul>
+  <li><h👋 Hi, I’m Albin Sabu1></h1></li>
+   <li>I am currently working on SPRINGBOOT project</li>
+   <li>🚀Currently learning springboot 3</li>
+   <li><a href="https://www.linkedin.com/in/albin-sabu2023/"> 📫 Connect me</a></li>
+ </ul>
 
-
-<h1>-------------->Tech Stacks <----------------</h1>
+<title>TECH STACKS</title>
 <br/>
 
 
