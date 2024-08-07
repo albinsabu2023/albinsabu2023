@@ -43,4 +43,4 @@
 
 
 ![Albin's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinsabu2023&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albinsabu2023&layout=compact)
+
