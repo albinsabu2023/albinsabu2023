@@ -49,5 +49,5 @@
 
 
  ```javascript
-  window.alert("its time to code")
+  console.log("its time to code")
 ```
