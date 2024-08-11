@@ -10,7 +10,7 @@
    - 🚀Currently learning springboot 3
    - Ask me about React,Springboot,Node js
    - <a href="https://www.linkedin.com/in/albin-sabu2023/"> 📫 Connect me</a>
-   - ![](https://komarev.com/ghpvc/?username=albinsabu2023&style=flat-square)
+  
 
  
  ```
@@ -45,6 +45,11 @@
 ![React-20232A](https://github.com/albinsabu2023/albinsabu2023/assets/126412402/2b14be99-c3d9-4b98-a34a-ed62cd581efc)
 ![React_Router-CA4245](https://github.com/albinsabu2023/albinsabu2023/assets/126412402/7c2c0285-6da3-46c2-a805-faff58a66e40)
 ![React_Query-FF4154](https://github.com/albinsabu2023/albinsabu2023/assets/126412402/cac7ecea-a762-4c47-a0fa-8f240efed460)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 
