@@ -10,7 +10,7 @@
    - 🚀Currently learning springboot 3
    - Ask me about React,Springboot,Node js
    - <a href="https://www.linkedin.com/in/albin-sabu2023/"> 📫 Connect me</a>
-   -
+   - ![](https://komarev.com/ghpvc/?username=albinsabu2023&style=flat-square)
 
  
  ```
