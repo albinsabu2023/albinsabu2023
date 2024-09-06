@@ -56,3 +56,6 @@
  ```javascript
   console.log("its time to code")
 ```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albinsabu2023&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinsabu2023&show_icons=true&theme=radical)
