@@ -51,11 +51,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=albinsabu2023&color=blueviolet)
 
- ```javascript
-  console.log("its time to code")
-```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albinsabu2023&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinsabu2023&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=albinsabu2023&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinsabu2023&show_icons=true&theme=radical)  
