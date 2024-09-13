@@ -12,6 +12,8 @@
    - <a href="https://www.linkedin.com/in/albin-sabu2023/"> 📫 Connect me</a>
   
 
+### my first npm package 
+toggle-beautify   ![npm](https://img.shields.io/npm/dw/toggle-beautify)
  
  ```
       STILL   MAKING BUGS AND FIXING !!
