@@ -3,7 +3,6 @@
  ![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/albinsabu2023/albinsabu2023/assets/126412402/a19af869-ae83-4395-b3a7-6203cb547528)
 
  
-  ***👋 Hi, I’m Albin Sabu*** 
 
  
   
