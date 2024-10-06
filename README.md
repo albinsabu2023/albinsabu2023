@@ -10,6 +10,4 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=albinsabu2023&theme=dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinsabu2023&show_icons=true&theme=radical)  
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=albinsabu2023&theme=dark)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinsabu2023&show_icons=true&theme=radical)  
