@@ -1,11 +1,11 @@
 <div id = "Head" align = "center">
 <h2> <img src= "https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width = "10%"/> 
   Hi, I am Albin Sabu ,Welcome to my github profile
- 
+  <img height=100 width=100  src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 </h2>
 </div>
 
-<img align="right" height=400 width=300 src= "https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" />
+<img align="right" height=350 width=300 src= "https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" />
 
 
 
