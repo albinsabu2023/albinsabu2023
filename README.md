@@ -1,7 +1,7 @@
 <div id = "Head" align = "center">
 <h2> <img src= "https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width = "10%"/> 
   Hi, I am Albin Sabu ,Welcome to my github profile
-  <img height=100 width=100  src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+ 
 </h2>
 </div>
 
