@@ -11,5 +11,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=albinsabu2023&theme=dark)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinsabu2023&show_icons=true&theme=radical)  
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=albinsabu2023&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Hacktoberfest-2k24](https://holopin.me/albinsabu2023)](https://holopin.io/@albinsabu2023)
